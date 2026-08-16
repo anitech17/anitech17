@@ -2,6 +2,7 @@
 <h3 align="center">AI-Driven Full Stack Engineer | React, Flutter, Node.js, FastAPI | RAG & LLM Applications</h3>
 
 <p align="center">
+  <a href="https://anitech17.github.io/animesh-pandey/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/animesh-pandey-823867205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:animeshpandey1726@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Phone-8340495248-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
