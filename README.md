@@ -86,19 +86,6 @@ I've worked across **enterprise SaaS platforms**, **healthcare applications**, *
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anitech17&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitech17&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anitech17&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🎓 Certifications
 
 - 🏅 **Databricks Certified Generative AI Engineer Associate** — Dec 2024
